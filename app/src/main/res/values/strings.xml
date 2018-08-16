@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LoanDemo</string>
+
+    <string name="enter_email">Please enter valid email</string>
+    <string name="signup_enetrpassword">Please enter the password</string>
+    <string name="pass_six_digit">Password should be minimum of 6 digits</string>
+
+    <string name="internet_error_msg">You are not connected to the Internet. Please connect to internet and try again.</string>
+    <string name="user_logged_in">User successfully logged in</string>
+
+    <string name="applicant_list">Applicant List</string>
+    <string name="add_applicant">Add Applicant</string>
+
+    // Add applicants screen
+
+    <string name="enter_first_name">Enter your first name</string>
+    <string name="enter_last_name">Enter your last name</string>
+    <string name="enter_your_email">Enter your Email id</string>
+    <string name="enter_your_loan_amount">Enter your Loan amount</string>
+    <string name="enter_your_pan_card">Enter your Valid Pan  Id</string>
+    <string name="enter_your_aadhar_card">Enter your Valid Aadhar  Id</string>
+    <string name="enter_your_voter_card">Enter your Valid Voter  Id</string>
+    <string name="submit">Submit</string>
+
+    <string name="enter_amount_limit">please enter amount between 1-100000</string>
+    <string name="first_name_limit">First name shoul have atleast 3 chars</string>
+    <string name="last_name_limit">Last name shoul have atleast 3 chars</string>
+
+    <string name="loan_details_submitted">Your loan details submitted.</string>
+
+
+</resources>

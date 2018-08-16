@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="3"
+    android:padding="10dp"
+    android:background="@color/colorAccent"
+    >
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="First Name"
+        android:gravity="center|top"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:layout_weight="1"/>
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="Last Name"
+        android:gravity="center|top"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:background="@color/colorAccent"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="Loan Amount"
+        android:gravity="center|top"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:background="@color/colorAccent"
+        android:layout_weight="1"/>
+
+
+
+
+</LinearLayout>
